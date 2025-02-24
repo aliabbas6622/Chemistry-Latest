@@ -1,0 +1,52 @@
+I am developing a Chemistry learning app that helps students understand organic reactions and preparations interactively. The UI is built with Tailwind CSS and JavaScript. I want to enhance the app by adding more structured and detailed information on reactions and topics. Here’s how I want it to work:"
+
+1️⃣ Functional Groups with Two Sections
+When a functional group is selected from the dropdown, the UI should display two sections side by side:
+Reactions (Transformation of the functional group)
+Preparations (Ways to synthesize the functional group)
+2️⃣ Dynamic Data Handling
+Each functional group should have its own set of reactions and preparations, and the data should be fetched accordingly.
+The UI should update in real-time when a different functional group is selected.
+Example:
+For Alkanes
+
+Reactions Section:
+Combustion
+Halogenation
+Cracking
+Preparations Section:
+From Alkenes
+From Alkyl Halides
+From Carboxylates
+For Alkenes
+
+Reactions Section:
+Hydrogenation
+Halogenation
+Hydrohalogenation
+Preparations Section:
+From Alcohols
+From Alkynes
+From Dihalides
+3️⃣ Detailed Information Display
+Each reaction/preparation should have:
+
+Name (e.g., Hydrogenation)
+Description (e.g., "Addition of H₂ in presence of catalyst")
+Equation (e.g., C₂H₄ + H₂ → C₂H₆)
+Mechanism (if applicable)
+Conditions (Temperature, Pressure, Catalyst, etc.)
+Example Compounds
+Data should be expandable with click-to-view details rather than basic alerts.
+
+4️⃣ UI Enhancements for Better Learning Experience
+Tabbed Interface – Each reaction/preparation should open in a tabbed format rather than a long list.
+Searchable Topics – Users should be able to type keywords to filter reactions and preparations.
+Clickable Equations – Show equations in a structured LaTeX/math format for better readability.
+Dark Mode Support – Ensure that reaction equations and images are visible in both light and dark mode.
+5️⃣ Additional Features
+Integration of 3Dmol.js – Render molecular structures dynamically for reactions.
+Video Explanations – Embed short tutorial videos for selected reactions/preparations.
+AI-Powered Summaries – Allow users to generate quick AI explanations for any reaction.
+Goal:
+"I want my app to be an interactive chemistry learning tool where users can explore organic reactions and preparations in a structured, visually appealing, and dynamic way. Help me organize the reaction data correctly, ensure smooth UI transitions, and make it engaging for students.

@@ -1,0 +1,72 @@
+
+## **Chapter 5: Reactions (1-24)**  
+
+### **Alkene and Alkyne Reactions**
+1. **Dehydration of Alcohol**  
+2. **Dehydrohalogenation of Alkyl Halide**  
+3. **Hydrogenation of Alkene**  
+4. **Halogenation of Alkene**  
+5. **Hydrohalogenation of Alkene**  
+6. **Hydration of Alkene**  
+7. **Halohydration of Alkene**  
+8. **Epoxidation of Alkene**  
+9. **Ozonolysis of Alkene**  
+10. **Polymerization of Alkene**  
+
+### **Alkyne Reactions**
+11. **Dehydrohalogenation of Vicinal Dihalide**  
+12. **Dehalogenation of Tetrahalide**  
+13. **Hydrogenation of Alkyne**  
+14. **Hydrohalogenation of Alkyne**  
+15. **Hydration of Alkyne**  
+16. **Bromination of Alkyne**  
+17. **Ozonolysis of Alkyne**  
+
+### **Benzene Reactions**
+18. **Addition of Benzene H₂ (Hydrogenation)**  
+19. **Addition of Halogen to Benzene** *(Likely)*  
+20. **Nitration of Benzene**  
+21. **Sulphonation of Benzene**  
+22. **Halogenation of Benzene**  
+23. **Friedel-Crafts Alkylation**  
+24. **Friedel-Crafts Acylation**  
+
+---
+
+## **Chapter 7: Reactions (25-48)**  
+
+### **Alkene and Alkyl Halide Reactions**
+25. **Hydration of Alkene**  
+26. **Hydrolysis of Alkyl Halide**  
+
+### **Grignard Reactions**
+27. **Grignard Reagent with Aldehyde**  
+28. **Grignard Reagent with Ketone**  
+29. **Grignard Reagent with Formaldehyde**  
+30. **Grignard Reagent with Ethanal**  
+31. **Grignard Reagent with Acetone**  
+32. **Grignard Reagent with Esters**  
+
+### **Reduction Reactions**
+33. **Reduction of Aldehyde**  
+34. **Reduction of Ketone**  
+35. **Reduction of Carboxylic Acids**  
+36. **Reduction of Esters**  
+
+### **Alcohol Reactions**
+37. **Reaction of Alcohol with HX**  
+38. **Reaction of Alcohol with SOCl₂**  
+39. **Reaction of Alcohol with PX₃**  
+40. **Acid-Catalyzed Dehydration of Alcohols**  
+41. **Oxidation of Alcohols**  
+
+### **Benzene and Phenol Reactions**
+42. **Reaction of Sodium Benzene Sulfonate with NaOH**  
+43. **Reaction of Chlorobenzene with NaOH**  
+43b. **Hydrolysis of Diazonium Salt**  
+44. **Nitration of Phenol**  
+45. **Sulphonation of Phenol**  
+46. **Halogenation of Phenol**  
+47. **Reaction of Phenol with Sodium Metal**  
+48. **Oxidation of Phenol**  
+
